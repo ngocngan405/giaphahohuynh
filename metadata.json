@@ -1,0 +1,6 @@
+{
+  "name": "Gia Phả Đại Việt - Quản Lý & Bảo Tồn Phả Hệ Dòng Họ",
+  "description": "Nền tảng gia phả số hóa: Phả đồ trực quan 7 đời, lịch giỗ chạp tế tự âm dương, quản lý thành viên dòng tộc và lưu truyền truyền thống gia phong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
